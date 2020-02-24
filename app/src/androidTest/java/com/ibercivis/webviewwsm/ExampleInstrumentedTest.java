@@ -1,4 +1,4 @@
-package com.example.webviewwsm;
+package com.ibercivis.webviewwsm;
 
 import android.content.Context;
 
