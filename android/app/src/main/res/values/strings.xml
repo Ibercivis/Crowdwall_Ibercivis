@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crowdwall</string>
+    <string name="try_again">Reconnect</string>
+    <string name="alert">A change in your connectivity has been detected that may affect the usability of the app. Please restart it.</string>
+</resources>
